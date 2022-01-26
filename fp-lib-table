@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "DIN41612_C_3x32_Horizontal_THT")(type "KiCad")(uri "${KIPRJMOD}/DIN41612_C_3x32_Horizontal_THT.pretty")(options "")(descr ""))
+  (lib (name "RCJ-04")(type "KiCad")(uri "${KIPRJMOD}/RCJ-04.pretty")(options "")(descr ""))
+)
